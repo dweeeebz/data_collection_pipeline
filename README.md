@@ -1,2 +1,4 @@
 # data_collection_pipeline
-Data collection pipeline that runs in the cloud
+
+## Milestone 1 Task 3
+Creating a class with all the methods to scrape data ofthe web using Selenium and beautiful soup
